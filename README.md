@@ -1,2 +1,2 @@
 # nft_exporter
-nft dashboard
+nft exporter for prometheus from [@opensea](https://opensea.io/)
